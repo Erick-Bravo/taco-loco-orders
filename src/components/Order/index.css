@@ -1,0 +1,13 @@
+.order-container {
+  height: 100%;
+  width: 400px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 140px;
+  margin-right: 20px;
+
+}
+
+.order-container p {
+  font-size: 10px;
+}
